@@ -1,0 +1,29 @@
+{% extends  "home/base.html" %}
+
+{% block content %}
+
+   <h1 style="color: red" align="center">学生查询平台</h1>
+
+   <p style="text-indent: 2em; font-size: 28px;">
+   海外网6月20日电就在美国宣布退出联合国人权理事会不久后，
+   俄罗斯常驻联合国代表团于当地时间周三（20日）表示，俄罗斯已经申请成为联合国人权理事会2021-2023届成员国。
+   </p>
+   <table border="1" align="center" style="font-size: 18px;">
+       <tr>
+           <th>学生姓名</th>
+           <th>性别</th>
+           <th>地址</th>
+       </tr>
+
+       {% for stu in stu_list %}
+       <tr>
+           <td>{{stu.name}}</td>
+           <td>{{stu.sex}}</td>
+           <td>{{stu.address}}</td>
+       </tr>
+       {% endfor %}
+
+   </table>
+
+
+{% endblock %}

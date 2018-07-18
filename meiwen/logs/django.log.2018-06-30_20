@@ -1,0 +1,24 @@
+[INFO][2018-06-30 18:28:21,237][index_handler.py][IndexHandler][48] > IndexHandler, 0
+[INFO][2018-06-30 18:28:49,587][index_handler.py][IndexHandler][48] > IndexHandler, 0
+[INFO][2018-06-30 18:32:18,905][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 18:32:18,913][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 18:40:34,118][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 18:40:34,119][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 18:40:42,701][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 18:40:42,702][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 19:39:18,564][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 19:39:18,565][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:01:55,412][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:01:55,420][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:10:25,690][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:10:25,698][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:16:58,660][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:16:58,671][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:17:45,461][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:17:45,466][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:24:08,668][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:24:08,669][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:25:02,269][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:25:02,269][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1
+[INFO][2018-06-30 20:25:36,515][index_handler.py][IndexHandler][48] > IndexHandler, 1
+[WARNING][2018-06-30 20:25:36,529][index_handler.py][IndexHandler][52] > IndexHandler, pagenum: 1

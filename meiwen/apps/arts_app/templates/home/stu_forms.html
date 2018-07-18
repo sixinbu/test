@@ -1,0 +1,11 @@
+{% extends  "home/base.html" %}
+
+{% block content %}
+
+<form action="/app/stu_forms/" method="POST">
+    {{ form.as_p }}
+    {% csrf_token %}
+    <input type="submit" value="提交表单" style="color: red" />
+</form>
+
+{% endblock %}
